@@ -170,6 +170,7 @@ E_jour = Σ P(t) · Δt / 3.6e6          [kWh]
 MPPT-direct/
 ├── README.md              本文件（中文 + 法语）
 ├── src/                   MATLAB 代码
+│   ├── README.md          各函数说明与调用顺序
 │   ├── setupProject.m     将代码加入 MATLAB 搜索路径
 │   ├── projectRoot.m      由文件位置推导仓库根目录
 │   ├── data/
@@ -446,6 +447,7 @@ rapport met en évidence.
 MPPT-direct/
 ├── README.md              ce document (ZH + FR)
 ├── src/                   code MATLAB
+│   ├── README.md          description des fonctions et ordre d'appel
 │   ├── setupProject.m     ajoute le code au chemin MATLAB
 │   ├── projectRoot.m      racine du dépôt, indépendante de l'emplacement
 │   ├── data/
