@@ -15,7 +15,7 @@ codegen/
 # Exception : dans archive/other_methods, ces sauvegardes sont des instantanés
 # historiques volontairement conservés, on les versionne.
 !archive/other_methods/Fuzzy/Fuzzy_Logic.slx.r2019a
-!archive/other_methods/Simulations BA04 P24/pv_modeling_2_MPPT_POA.slx.r2020b
+!archive/other_methods/simulations_BA04_P24/pv_modeling_2_MPPT_POA.slx.r2020b
 
 # ---------------------------------------------------------------------------
 # Sorties régénérées par le code (voir src/runAnalysis.m).
