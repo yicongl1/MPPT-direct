@@ -1,0 +1,35 @@
+# ---------------------------------------------------------------------------
+# Artefacts générés par MATLAB / Simulink : jamais versionnés.
+# Ils sont conservés sur disque dans archive/simulink_build_cache/.
+# ---------------------------------------------------------------------------
+slprj/
+archive/simulink_build_cache/
+*.slxc
+*.slx.r20*
+*.slx.original
+*.autosave
+*.asv
+*.mex*
+codegen/
+
+# Exception : dans archive/other_methods, ces sauvegardes sont des instantanés
+# historiques volontairement conservés, on les versionne.
+!archive/other_methods/Fuzzy/Fuzzy_Logic.slx.r2019a
+!archive/other_methods/Simulations BA04 P24/pv_modeling_2_MPPT_POA.slx.r2020b
+
+# ---------------------------------------------------------------------------
+# Sorties régénérées par le code (voir src/runAnalysis.m).
+# Les CSV actuellement suivis sont ceux du rapport, ils restent versionnés :
+# pour les ignorer aussi, décommenter les deux lignes suivantes.
+# ---------------------------------------------------------------------------
+# data/processed/*.csv
+# results/*.png
+
+# ---------------------------------------------------------------------------
+# Système / éditeurs
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
