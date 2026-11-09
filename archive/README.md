@@ -8,12 +8,15 @@ données dans `data/`.
 
 | Dossier | Contenu |
 |---|---|
-| `legacy_scripts/` | Versions d'origine des scripts MATLAB, avant unification. Conservées telles quelles pour l'historique. |
-| `other_methods/` | Travaux du groupe sur les autres méthodes : logique floue (`Fuzzy/`), conductance incrémentale et pas variable (`Simulations BA04 P24/`), modèles PV de base (`KC200GT.slx`, `mod_pv.slx`). |
-| `datasets/` | Variantes de jeux de données : sorties brutes de la station STELLA, extractions d'irradiation complémentaires. |
-| `references/` | Bibliographie du projet : 17 articles rangés dans `papers/` (voir son `README.md`), plus la thèse UTC citée dans le rapport. |
+| `legacy_scripts/` | Versions d'origine des scripts MATLAB et table de correspondance avec `src/`. |
+| `other_methods/` | Travaux du groupe sur les autres méthodes : logique floue, conductance incrémentale, pas variable, modèles PV de base. |
+| `datasets/` | Jeux de données d'origine et notice de la plateforme STELLA. |
+| `references/` | Bibliographie du projet : 18 articles dans `papers/`, plus la thèse UTC citée dans le rapport. |
 | `simulink_build_cache/` | Caches de compilation Simulink (`slprj/`, `.slxc`, `.slx.r2022b`, `.slx.original`). Régénérables, ignorés par Git. |
 | `README_original.md` | Premier README du dépôt, conservé pour mémoire. |
+
+Chaque sous-dossier dispose de son propre `README.md` détaillant fichier par
+fichier.
 
 ## Contenu retiré
 

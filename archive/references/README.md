@@ -2,7 +2,7 @@
 
 Les articles 1 à 16 sont la bibliographie dépouillée par le groupe pour le
 poster `../../docs/BA04_poster.pdf` ; la numérotation reprend celle du poster.
-Les deux derniers documents sont des références de contexte.
+Les trois derniers documents sont des références de contexte.
 
 ## Les 16 articles du poster
 
@@ -30,4 +30,5 @@ Les deux derniers documents sont des références de contexte.
 | Fichier | Sujet |
 |---|---|
 | `papers/A Comparative Study on MPPT Techniques for PV Power Systems.pdf` | Panorama comparatif des techniques MPPT |
+| `papers/2009 - Comprehensive approach to modeling and simulation of PV arrays.pdf` | Modélisation et simulation des champs PV (source des modèles `KC200GT.slx` et `mod_pv.slx`) |
 | `These_UTC_Hongliang_Liu_p49.pdf` | Thèse UTC citée dans le rapport (modélisation PV, p. 49) |
